@@ -4,4 +4,7 @@
     <string name="date_text">Date</string>
     <string name="datepicker">datePicker</string>
     <string name="date">"Date: "</string>
+    <string name="time">"Time: "</string>
+    <string name="time_text">Time</string>
+    <string name="timepicker">timePicker</string>
 </resources>
